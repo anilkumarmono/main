@@ -361,7 +361,7 @@ nav .fas {
 /* ----------CSS FOR SMALL SCREEN---------- */
 @media only screen and (max-width: 600px) {
     #header {
-        background-image: url(images/phone-background.png);
+        background-image: url(images/phone-anil.png);
     }
 
     .header-text {
@@ -400,7 +400,7 @@ nav .fas {
 
     /* Adjust the header image and text size for small screens */
     #header {
-        background-image: url(images/phone-background.png);
+        background-image: url(images/phone-anil.png);
     }
 
     .header-text {
